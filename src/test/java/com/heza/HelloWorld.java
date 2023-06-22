@@ -10,4 +10,7 @@ public class HelloWorld {
 	private void dinesh() {
 
 	}
+	private void siva() {
+
+	}
 }
