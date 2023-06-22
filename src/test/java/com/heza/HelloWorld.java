@@ -7,4 +7,7 @@ public class HelloWorld {
 	private void aswin() {
 
 	}
+	private void dinesh() {
+
+	}
 }
